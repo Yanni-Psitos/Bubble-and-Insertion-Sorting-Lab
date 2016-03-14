@@ -25,6 +25,8 @@ Below, you will find a handful of number arrays. By hand, sort as many as you ca
 
 > 10, 9, 8, 7, 6
 
+[Practice Screenshot](http://i.imgur.com/kwLvjFp.jpg)
+
 > -4, 6, 33, 12, 1, 1, -1
 
 > 2, 3, 2, 3, 2, 3, -2
